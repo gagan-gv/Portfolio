@@ -12,14 +12,14 @@
     width: 150px;
     height: 150px;
     position: absolute;
-    top: calc(50vh - 70px);
-    left: calc(50vw - 70px);
+    top: calc(50vh - 75px);
+    left: calc(50vw - 75px);
 }
 
 .loader::before,
 .loader::after {
     content: '';
-    border: 1em solid #25536f;
+    border: 0.75em solid #25536f;
     border-radius: 50%;
     width: inherit;
     height: inherit;
