@@ -283,7 +283,6 @@
   opacity: 1;
   background: #fd3838;
   height: 30px;
-  box-shadow: 0px 0px 20px rgba(252, 56, 56, 0.3);
 }
 
 @media screen and (max-width: 768px) {
@@ -297,6 +296,5 @@
   opacity: 1;
   background: #25536f;
   height: 30px;
-  box-shadow: 0px 0px 20px rgba(252, 56, 56, 0.3);
 }
 
